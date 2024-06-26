@@ -1,0 +1,172 @@
+1. 150 DSA Questions (12pm -- 3pm)
+2. System Design Basics + Top 10 Questions (3.30pm -- 8pm)
+3. LLD Basics + Top 10 Questions (9pm -- 12am)
+4. Python Basics + OOP concepts (12am -- 1am)
+5. SQL Basics (1am -- 2.30am)
+6. Rest API Concepts (2.30am -- 4am)
+7. Java Basics 
+8. Design Patterns 
+
+
+
+
+
+
+
+
+
+
+### Arrays and Strings
+1. [Two Sum](https://leetcode.com/problems/two-sum/)
+2. [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+3. [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
+4. [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+5. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+6. [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
+7. [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+8. [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+9. [3Sum](https://leetcode.com/problems/3sum/)
+10. [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
+11. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+12. [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
+13. [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
+14. [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
+15. [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
+16. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+17. [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
+18. [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
+19. [Decode Ways](https://leetcode.com/problems/decode-ways/)
+20. [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/)
+21. [Jump Game](https://leetcode.com/problems/jump-game/)
+22. [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
+23. [Insert Interval](https://leetcode.com/problems/insert-interval/)
+24. [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
+25. [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
+26. [Rotate Image](https://leetcode.com/problems/rotate-image/)
+27. [Word Search](https://leetcode.com/problems/word-search/)
+
+### Linked Lists
+28. [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
+29. [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
+30. [Reorder List](https://leetcode.com/problems/reorder-list/)
+31. [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+32. [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)
+33. [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
+34. [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
+35. [LRU Cache](https://leetcode.com/problems/lru-cache/)
+36. [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
+
+### Trees and Graphs
+37. [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
+38. [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+39. [Same Tree](https://leetcode.com/problems/same-tree/)
+40. [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)
+41. [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
+42. [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
+43. [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
+44. [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)
+45. [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)
+46. [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
+47. [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
+48. [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
+49. [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
+50. [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
+51. [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
+52. [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
+53. [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)
+54. [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/)
+55. [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)
+56. [Clone Graph](https://leetcode.com/problems/clone-graph/)
+57. [Course Schedule](https://leetcode.com/problems/course-schedule/)
+58. [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)
+59. [Number of Islands](https://leetcode.com/problems/number-of-islands/)
+60. [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)
+61. [Word Ladder](https://leetcode.com/problems/word-ladder/)
+62. [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/)
+
+### Dynamic Programming
+63. [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
+64. [House Robber](https://leetcode.com/problems/house-robber/)
+65. [House Robber II](https://leetcode.com/problems/house-robber-ii/)
+66. [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
+67. [Coin Change](https://leetcode.com/problems/coin-change/)
+68. [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
+69. [Word Break](https://leetcode.com/problems/word-break/)
+70. [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)
+71. [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)
+72. [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)
+73. [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
+74. [Burst Balloons](https://leetcode.com/problems/burst-balloons/)
+75. [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/)
+76. [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
+77. [Decode Ways](https://leetcode.com/problems/decode-ways/)
+78. [Unique Paths](https://leetcode.com/problems/unique-paths/)
+79. [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)
+80. [Edit Distance](https://leetcode.com/problems/edit-distance/)
+
+### Backtracking
+81. [Subsets](https://leetcode.com/problems/subsets/)
+82. [Subsets II](https://leetcode.com/problems/subsets-ii/)
+83. [Permutations](https://leetcode.com/problems/permutations/)
+84. [Permutations II](https://leetcode.com/problems/permutations-ii/)
+85. [Combination Sum](https://leetcode.com/problems/combination-sum/)
+86. [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)
+87. [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
+88. [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
+89. [Word Search](https://leetcode.com/problems/word-search/)
+90. [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)
+91. [N-Queens](https://leetcode.com/problems/n-queens/)
+92. [N-Queens II](https://leetcode.com/problems/n-queens-ii/)
+93. [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/)
+94. [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)
+
+### Sorting and Searching
+95. [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
+96. [Insert Interval](https://leetcode.com/problems/insert-interval/)
+97. [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+98. [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+99. [Kth Largest Element in an Array](https://leetcode.com/problems
+
+/kth-largest-element-in-an-array/)
+100. [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
+101. [Find Peak Element](https://leetcode.com/problems/find-peak-element/)
+102. [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
+103. [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
+104. [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
+105. [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
+106. [Sort Colors](https://leetcode.com/problems/sort-colors/)
+107. [Largest Number](https://leetcode.com/problems/largest-number/)
+
+### Greedy Algorithms
+108. [Jump Game](https://leetcode.com/problems/jump-game/)
+109. [Jump Game II](https://leetcode.com/problems/jump-game-ii/)
+110. [Candy](https://leetcode.com/problems/candy/)
+111. [Gas Station](https://leetcode.com/problems/gas-station/)
+112. [Assign Cookies](https://leetcode.com/problems/assign-cookies/)
+113. [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)
+114. [Hand of Straights](https://leetcode.com/problems/hand-of-straights/)
+115. [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)
+116. [Partition Labels](https://leetcode.com/problems/partition-labels/)
+117. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+118. [Reorganize String](https://leetcode.com/problems/reorganize-string/)
+119. [Task Scheduler](https://leetcode.com/problems/task-scheduler/)
+120. [Merge Triplets to Form Target Triplet](https://leetcode.com/problems/
+
+121. [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)
+122. [Word Search II](https://leetcode.com/problems/word-search-ii/)
+123. [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/)
+
+124. [Dijkstra’s Algorithm](https://leetcode.com/problems/network-delay-time/)
+125. [Bellman-Ford Algorithm](https://leetcode.com/problems/cheapest-flights-within-k-stops/)
+126. [Minimum Spanning Tree](https://leetcode.com/problems/connecting-cities-with-minimum-cost/)
+
+127. [Count Primes](https://leetcode.com/problems/count-primes/)
+128. [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/)
+129. [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/)
+
+130. [Print FooBar Alternately](https://leetcode.com/problems/print-foobar-alternately/)
+131. [Building H2O](https://leetcode.com/problems/building-h2o/)
+
+132. [Design TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/)
+133. [Design Twitter](https://leetcode.com/problems/design-twitter/)
+
